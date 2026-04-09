@@ -1,7 +1,7 @@
 // src/App.tsx
 
 import './App.css'
-import { useEffect, useState } from 'react'
+import { useEffect, useState, type ReactNode } from 'react'
 
 type NowPlaying = {
   isPlaying: boolean
