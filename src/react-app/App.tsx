@@ -15,7 +15,7 @@ type SocialLink = {
   label: string
   href: string
   accent: string
-  icon: icon: ReactNode
+  icon: ReactNode
 }
 
 const profile = {
