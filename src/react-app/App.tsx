@@ -38,7 +38,7 @@ const links: SocialLink[] = [
   },
   {
     label: 'TikTok',
-    href: 'https://www.tiktok.com/@your_username',
+    href: 'https://www.tiktok.com/@kintetik',
     accent: 'Аккаунт',
     icon: (
       <svg viewBox="0 0 24 24" aria-hidden="true">
