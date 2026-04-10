@@ -29,7 +29,7 @@ const links: SocialLink[] = [
   {
     label: 'Telegram',
     href: 'https://t.me/kintetik',
-    accent: 'Аккаунт',
+    accent: '',
     icon: (
       <svg viewBox="0 0 24 24" aria-hidden="true">
         <path d="M21.5 4.5 18.4 19c-.2 1-.8 1.2-1.6.8l-4.7-3.5-2.2 2.1c-.2.2-.4.4-.9.4l.3-4.8 8.8-8c.4-.3-.1-.5-.5-.2L6.7 12.7 2 11.2c-1-.3-1-1 .2-1.4L20 3c.9-.3 1.7.2 1.5 1.5Z" />
