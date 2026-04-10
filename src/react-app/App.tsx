@@ -211,6 +211,9 @@ function App() {
           ))}
         </div>
       </section>
+      <footer className="site-footer">
+        © 2026 kintetik. All rights reserved.
+      </footer>
     </main>
   )
 }
