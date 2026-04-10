@@ -48,7 +48,7 @@ const links: SocialLink[] = [
   },
   {
     label: 'YouTube',
-    href: 'https://www.youtube.com/@your_username',
+    href: 'https://www.youtube.com/@kintetik',
     accent: 'Аккаунт',
     icon: (
       <svg viewBox="0 0 24 24" aria-hidden="true">
@@ -58,7 +58,7 @@ const links: SocialLink[] = [
   },
   {
     label: 'Discord',
-    href: 'https://discord.com/users/your_id',
+    href: 'https://discord.com/users/1321448370287677444',
     accent: 'Аккаунт',
     icon: (
       <svg viewBox="0 0 24 24" aria-hidden="true">
@@ -68,7 +68,7 @@ const links: SocialLink[] = [
   },
   {
     label: 'Reddit',
-    href: 'https://www.reddit.com/user/your_username',
+    href: 'https://www.reddit.com/user/kintetik',
     accent: 'Аккаунт',
     icon: (
       <svg viewBox="0 0 24 24" aria-hidden="true">
@@ -78,7 +78,7 @@ const links: SocialLink[] = [
   },
   {
     label: 'Spotify',
-    href: 'https://open.spotify.com/',
+    href: 'https://open.spotify.com/31yx5ntfrmiiqseeazzr3egarsda',
     accent: 'Аккаунт',
     icon: (
       <svg viewBox="0 0 24 24" aria-hidden="true">
