@@ -78,7 +78,7 @@ const links: SocialLink[] = [
   },
   {
     label: 'Spotify',
-    href: 'https://open.spotify.com/31yx5ntfrmiiqseeazzr3egarsda?si=8cefda08d3b040e7',
+    href: 'https://open.spotify.com/user/31yx5ntfrmiiqseeazzr3egarsda?si=d712a24d5d3a4062',
     accent: 'Аккаунт',
     icon: (
       <svg viewBox="0 0 24 24" aria-hidden="true">
