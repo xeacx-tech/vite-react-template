@@ -48,7 +48,7 @@ const links: SocialLink[] = [
   },
   {
     label: 'YouTube',
-    href: 'https://www.youtube.com/kintetik',
+    href: 'https://www.youtube.com/@kintetik',
     accent: 'Аккаунт',
     icon: (
       <svg viewBox="0 0 24 24" aria-hidden="true">
@@ -78,7 +78,7 @@ const links: SocialLink[] = [
   },
   {
     label: 'Spotify',
-    href: 'https://open.spotify.com/31yx5ntfrmiiqseeazzr3egarsda',
+    href: 'https://open.spotify.com/31yx5ntfrmiiqseeazzr3egarsda?si=8cefda08d3b040e7',
     accent: 'Аккаунт',
     icon: (
       <svg viewBox="0 0 24 24" aria-hidden="true">
