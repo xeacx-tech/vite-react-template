@@ -77,7 +77,7 @@ async function getNowPlaying(env: Env) {
   if (response.status === 204) {
     return {
       isPlaying: false,
-      title: "Сейчас ничего не играет",
+      title: "Сейчас ничего не слушает",
       artist: "Spotify не вернул активный трек",
       cover: "",
       url: "#",
