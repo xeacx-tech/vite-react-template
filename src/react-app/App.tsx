@@ -48,7 +48,7 @@ const links: SocialLink[] = [
   },
   {
     label: 'YouTube',
-    href: 'https://www.youtube.com/@kintetik',
+    href: 'https://www.youtube.com/kintetik',
     accent: 'Аккаунт',
     icon: (
       <svg viewBox="0 0 24 24" aria-hidden="true">
