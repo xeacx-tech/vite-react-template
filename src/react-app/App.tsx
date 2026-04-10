@@ -39,6 +39,7 @@ const links: SocialLink[] = [
   {
     label: 'TikTok',
     href: 'https://www.tiktok.com/@kintetik',
+    accent: 'Аккаунт',
     icon: (
       <svg viewBox="0 0 24 24" aria-hidden="true">
         <path d="M15.2 3c.3 1.8 1.3 3.2 2.9 4.1 1 .6 2 .9 2.9 1v2.7c-1.5 0-3-.4-4.4-1.2v5.3a5.8 5.8 0 1 1-5.8-5.8h.4v2.8h-.4a3 3 0 1 0 3 3V3h1.4Z" />
