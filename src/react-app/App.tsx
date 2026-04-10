@@ -28,7 +28,7 @@ const profile = {
 const links: SocialLink[] = [
   {
     label: 'Telegram',
-    href: 'https://t.me/your_username',
+    href: 'https://t.me/kintetik',
     accent: 'канал / личка',
     icon: (
       <svg viewBox="0 0 24 24" aria-hidden="true">
