@@ -335,3 +335,12 @@ select {
     display: none;
   }
 }
+.site-footer {
+  position: relative;
+  z-index: 1;
+  margin-top: 18px;
+  color: rgba(245, 247, 244, 0.45);
+  font-size: 0.82rem;
+  text-align: center;
+  letter-spacing: 0.03em;
+}
