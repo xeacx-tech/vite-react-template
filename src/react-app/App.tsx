@@ -22,7 +22,7 @@ const profile = {
   name: 'kintetik',
   handle: '@xeacx',
   subtitle: 'гений • манипулятор',
-  avatar: '',
+  avatar: '/avatar.jpg',
 }
 
 const links: SocialLink[] = [
